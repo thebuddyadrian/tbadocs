@@ -1,1 +1,4 @@
 
+Version 2-21-22:
+- Fixes bug with Online mode giving a black screen to one player
+- Fixes bug with Random select not working properly in tag team mode
